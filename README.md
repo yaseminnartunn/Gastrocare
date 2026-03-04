@@ -148,7 +148,7 @@ npx expo start
 
 ## Uygulama Çıktısı (Ekran Görüntüleri)
 
-![GastroCare Mobil - Ana Sayfa](./docs/screenshots/anasayfa.jpeg)
+![GastroCare Mobil - Ana Sayfa](GastroCare/docs/screenshots/anasayfa.jpeg)
 ![GastroCare Mobil - Kısa Bilgiler](./docs/screenshots/kısabilgiler.jpeg)
 ![GastroCare Mobil - Beslenme Rehberi](./docs/screenshots/beslenmerehberi.jpeg)
 ![GastroCare Mobil - Su Takibi](./docs/screenshots/sutakibi.jpeg)
