@@ -40,6 +40,15 @@ GastroCare, bu sorunları çözmek için:
 
 ---
 ---
+## Uygulama Çıktısı (Ekran Görüntüleri)
+
+![GastroCare Mobil - Ana Sayfa](GastroCare/docs/screenshots/anasayfa.jpeg)
+![GastroCare Mobil - Kısa Bilgiler](GastroCare/docs/screenshots/kısabilgiler.jpeg)
+![GastroCare Mobil - Beslenme Rehberi](GastroCare/docs/screenshots/beslenmerehberi.jpeg)
+![GastroCare Mobil - Su Takibi](GastroCare/docs/screenshots/sutakibi.jpeg)
+![GastroCare Mobil - Bulmaca](GastroCare/docs/screenshots/bulmaca.jpeg)
+![GastroCare Mobil - Videolar](GastroCare/docs/screenshots/videoalar.jpeg)
+![GastroCare Mobil - Hakkında](GastroCare/docs/screenshots/hakkında.jpeg)
 
 ## Panoya Kattığım Kendi Fikirlerim
 
@@ -144,17 +153,6 @@ npm install
 # Expo geliştirme sunucusunu başlat
 npx expo start
 
-
-
-## Uygulama Çıktısı (Ekran Görüntüleri)
-
-![GastroCare Mobil - Ana Sayfa](GastroCare/docs/screenshots/anasayfa.jpeg)
-![GastroCare Mobil - Kısa Bilgiler](./docs/screenshots/kısabilgiler.jpeg)
-![GastroCare Mobil - Beslenme Rehberi](./docs/screenshots/beslenmerehberi.jpeg)
-![GastroCare Mobil - Su Takibi](./docs/screenshots/sutakibi.jpeg)
-![GastroCare Mobil - Bulmaca](./docs/screenshots/bulmaca.jpeg)
-![GastroCare Mobil - Videolar](./docs/screenshots/videoalar.jpeg)
-![GastroCare Mobil - Hakkında](./docs/screenshots/hakkında.jpeg)
 
 
 ![GastroCare Mobil - Hakkında]("C:\Users\Acer\OneDrive\Desktop\mobil uyg\GastroCare\docs\screenshots\hakkında.jpeg")
