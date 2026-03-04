@@ -47,7 +47,7 @@ GastroCare, bu sorunları çözmek için:
 ![GastroCare Mobil - Beslenme Rehberi](GastroCare/docs/screenshots/beslenmerehberi.jpeg)
 ![GastroCare Mobil - Su Takibi](GastroCare/docs/screenshots/sutakibi.jpeg)
 ![GastroCare Mobil - Bulmaca](GastroCare/docs/screenshots/bulmaca.jpeg)
-![GastroCare Mobil - Videolar](GastroCare/docs/screenshots/videoalar.jpeg)
+![GastroCare Mobil - Videolar](GastroCare/docs/screenshots/videolar.jpeg)
 ![GastroCare Mobil - Hakkında](GastroCare/docs/screenshots/hakkında.jpeg)
 
 ## Panoya Kattığım Kendi Fikirlerim
